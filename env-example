@@ -1,0 +1,2 @@
+MONGMONGODB_URL=mongodb://localhost/jobboard
+JWT_SECRET=secretkeyhere
